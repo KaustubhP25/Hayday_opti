@@ -1,0 +1,18 @@
+{
+  "Apple": { "price": 39.5, "time": 16 },
+  "Raspberry": { "price": 46.8, "time": 18 },
+  "Cherry": { "price": 68.4, "time": 27 },
+  "Blackberry": { "price": 82.8, "time": 31 },
+  "Cacao": { "price": 86.4, "time": 35 },
+  "Coffee Bean": { "price": 64.8, "time": 24 },
+  "Olive": { "price": 82.8, "time": 24 },
+  "Lemon": { "price": 93.6, "time": 29 },
+  "Orange": { "price": 97.2, "time": 31 },
+  "Peach": { "price": 100.8, "time": 30 },
+  "Banana": { "price": 104.4, "time": 27 },
+  "Plum": { "price": 82.8, "time": 25 },
+  "Mangoes": { "price": 100.8, "time": 32 },
+  "Coconut": { "price": 108.0, "time": 37 },
+  "Guava": { "price": 111.6, "time": 34 },
+  "Pomegranate": { "price": 111.6, "time": 27 }
+}

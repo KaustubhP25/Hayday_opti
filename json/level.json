@@ -1,0 +1,84 @@
+{
+  "1" : {
+    "animal" : "Chicken",
+    "crops": ["Wheat"]
+  },
+  "2" : {
+    "machine" : "Bakery",
+    "products": ["Bread"]
+  },
+  "3" : {
+    "crops": ["Corn"]
+  },
+  "4" : {
+  },
+  "5" : {
+    "crops": ["Soybean"]
+  },
+  "6" : {
+    "animal" : "Cow",
+    "machine" : "Dairy",
+    "products": ["Cream"]
+  },
+  "7" : {
+    "machine" : "Sugar_Mill",
+    "products": ["Corn_Bread","Brown_Sugar"],
+    "crops": ["Sugarcane"]
+  },
+  "8" : {
+    "machine" : "Popcorn_Pot",
+    "products": ["Popcorn"]
+  },
+  "9" : {
+    "machine" : "BBQ_Grill",
+    "products": ["Butter","Pancakes"],
+    "crops": ["Carrot"]
+  },
+  "10" : {
+    "animal" : "Pig",
+    "products": ["Cookie"]
+  },
+
+  "11": {
+    "products": ["Bacon_And_ Eggs"]
+  },
+  "12": {
+    "products": ["Cheese"],
+    "animal": "Chicken"
+  },
+  "13": {
+    "crops": ["Indigo"],
+    "products": ["White_Sugar"]
+  },
+  "14": {
+    "machine": "Pie_Oven",
+    "products": ["Carrot Pie"]
+  },
+  "15": {
+    "crops": ["Pumpkin"],
+    "products": ["Pumpkin_Pie"],
+    "tree": ["Apple"],
+    "animal": "Cow"
+  },
+  "16": {
+    "animal": "Sheep",
+    "products": ["Buttered_Popcorn"]
+  },
+  "17": {
+    "machine": "Loom",
+    "products": ["Sweater"]
+  },
+  "18": {
+    "crops": ["Cotton"],
+    "products": ["Bacon_Pie", "Syrup", "Cotton_Fabric", "Hamburger"],
+    "animal": "Pig"
+  },
+  "19": {
+    "machine": "Sewing_Machine",
+    "products": ["Raspberry_Muffin", "Blue_Woolly_Hat", "Cotton_Shirt"],
+    "tree": ["Raspberry"]
+  },
+  "20": {
+    "products": ["Blue_Sweater"]
+  }
+}

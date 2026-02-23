@@ -1,0 +1,64 @@
+{
+  "Wheat": 2,
+  "Corn": 5,
+  "Soybean": 20,
+  "Sugarcane": 30,
+  "Carrot": 10,
+
+  "Egg": 5,
+  "Milk": 60,
+  "Bacon": 240,
+  "Wool": 360,
+
+  "Bread": 5,
+  "Corn Bread": 30,
+  "Cookie": 60,
+  "Raspberry_Muffin": 45,
+  "Blackberry_Muffin": 45,
+  "Pizza": 15,
+  "Spicy Pizza": 15,
+  "Potato Bread": 45,
+
+  "Pancake": 30,
+  "Bacon and Eggs": 60,
+  "Hamburger": 120,
+  "Fish Burger": 120,
+  "Roasted Tomatoes": 90,
+  "Baked Potato": 36,
+  "Fish and Chips": 90,
+
+  "Popcorn": 30,
+  "Buttered Popcorn": 60,
+  "Chili Popcorn": 120,
+  "Honey Popcorn": 90,
+  "Chocolate Popcorn": 150,
+  "Snack Mix": 45,
+
+  "Cream": 20,
+  "Butter": 30,
+  "Cheese": 60,
+  "Goat Cheese": 90,
+
+  "Brown_Sugar": 20,
+  "White Sugar": 40,
+  "Syrup": 90,
+
+
+  "Apple": 16,
+  "Raspberry": 18,
+  "Cherry": 27,
+  "Blackberry": 31,
+  "Cacao": 35,
+  "Coffee Bean": 24,
+  "Olive": 24,
+  "Lemon": 29,
+  "Orange": 31,
+  "Peach": 30,
+  "Banana": 27,
+  "Plum": 25,
+  "Mangoes": 32,
+  "Coconut": 37,
+  "Guava": 34,
+  "Pomegranate": 27
+
+}

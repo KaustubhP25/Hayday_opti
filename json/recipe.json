@@ -1,0 +1,34 @@
+{
+  "Bread": { "Wheat": 3 },
+  "Corn_Bread": { "Corn": 2, "Egg": 2 },
+  "Cookie": { "Wheat": 2, "Egg": 2, "Brown_Sugar": 1 },
+  "Raspberry_Muffin": { "Wheat": 2, "Egg": 1, "Raspberry": 2 },
+  "Blackberry_Muffin": { "Wheat": 1, "Egg": 2, "Blackberry": 2 },
+  "Pizza": { "Wheat": 2, "Tomato": 1, "Cheese": 1 },
+  "Spicy Pizza": { "Wheat": 2, "Tomato": 1, "Cheese": 1, "Chili Pepper": 1 },
+  "Potato Bread": { "Potato": 2, "White Sugar": 1, "Egg": 3, "Butter": 1 },
+
+  "Pancake": { "Egg": 3, "Brown_Sugar": 1 },
+  "Bacon and Eggs": { "Egg": 4, "Bacon": 2 },
+  "Hamburger": { "Bread": 2, "Bacon": 2 },
+  "Fish Burger": { "Fish Fillet": 2, "Chili Pepper": 1, "Bread": 2 },
+  "Roasted Tomatoes": { "Tomato": 2 },
+  "Baked Potato": { "Potato": 2, "Chili Pepper": 1, "Cream": 1, "Cheese": 1 },
+  "Fish and Chips": { "Fish Fillet": 2, "Potato": 3 },
+
+  "Popcorn": { "Corn": 1 },
+  "Buttered_Popcorn": { "Corn": 1, "Butter": 1 },
+  "Chili Popcorn": { "Corn": 1, "Chili Pepper": 2 },
+  "Honey Popcorn": { "Corn": 1, "Honey": 2 },
+  "Chocolate Popcorn": { "Corn": 1, "Cacao": 2 },
+  "Snack Mix": { "Corn": 1, "Sesame": 1, "Peanut": 1 },
+
+  "Cream": { "Milk": 1 },
+  "Butter": { "Milk": 2 },
+  "Cheese": { "Milk": 3 },
+  "Goat Cheese": { "Goat_Milk": 2 },
+
+  "Brown_Sugar": { "Sugarcane": 1 },
+  "White_Sugar": { "Sugarcane": 2 },
+  "Sugar_Syrup": { "Sugarcane": 4 }
+}

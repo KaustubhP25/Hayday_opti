@@ -1,0 +1,107 @@
+{
+  "Bakery": {
+  "slots": 4,
+  "produce": [
+    "Bread",
+    "Corn_Bread",
+    "Cookie",
+    "Raspberry_Muffin",
+    "Blackberry_Muffin",
+    "Pizza",
+    "Blueberry_Muffin",
+    "Spicy_Pizza",
+    "Potato_Bread",
+    "Frutti_Di_Mare_Pizza",
+    "Gingerbread_Cookie",
+    "Banana_Bread",
+    "Macaroon",
+    "Pineapple_Coconut_Bars"
+    ]
+  },
+
+
+  "Dairy" : {
+    "slots": 4,
+    "produce": [
+      "Cream",
+      "Butter",
+      "Cheese",
+      "Goat_Cheese"
+    ]
+  },
+
+  "Sugar_Mill" : {
+    "slots": 5,
+    "produce": [
+      "Brown_Sugar",
+      "White_Sugar",
+      "Sugar_Syrup"
+    ]
+  },
+
+  "Popcorn_Pot" : {
+    "slots": 4,
+    "produce": [
+      "Popcorn",
+      "Buttered_Popcorn",
+      "Chilli_Popcorn",
+      "Chocolate_Popcorn",
+      "Snack_Mix"
+
+    ]
+  },
+
+  "BBQ_Grill" : {
+    "slots": 4,
+    "produce": [
+      "Pancakes",
+      "Bacon_And_Eggs",
+      "Hamburger",
+      "Fish_Burger"
+    ]
+  },
+  "Pie_Oven": {
+  "slots": 4,
+  "produce": [
+    "Carrot_Pie",
+    "Pumpkin_Pie",
+    "Bacon_Pie",
+    "Apple_Pie",
+    "Fish_Pie",
+    "Feta_Pie",
+    "Casserole",
+    "Shepherds_Pie",
+    "Asparagus_Quiche",
+    "Chocolate_Pie",
+    "Lemon_Pie",
+    "Peach_Tart",
+    "Passion_Fruit_Pie",
+    "Mushroom_Pot_Pie",
+    "Eggplant_Parmesan"
+  ]
+},
+  "Loom": {
+  "slots": 4,
+  "produce": [
+    "Sweater",
+    "Cotton_Fabric",
+    "Blue_Woolly_Hat",
+    "Blue_Sweater",
+    "Red_Scarf",
+    "Flower_Shawl"
+  ]
+},
+
+"Sewing_Machine": {
+  "slots": 4,
+  "produce": [
+    "Cotton_Shirt",
+    "Woolly_Chaps",
+    "Violet_Dress",
+    "Soothing_Pad",
+    "Pillow",
+    "Blanket"
+  ]
+}
+
+}
